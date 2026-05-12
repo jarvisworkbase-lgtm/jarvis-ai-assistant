@@ -18,9 +18,9 @@ completely offline on your PC — no internet or paid API needed.
 
 ## 📦 How to Run
 1. Install [Ollama](https://ollama.ai)
-2. Clone this repository
+2. Clone this repository(https://github.com/jarvisworkbase-lgtm/jarvis-ai-assistant/blob/main/README.md)
 3. Run `python jarvis.py`
 
 ## 👨‍💻 Author
-Built by [Your Name] — Aspiring AI Automation Developer
+Built by [Guru charan] — Aspiring AI Automation Developer
 Open to freelance projects and collaborations.
